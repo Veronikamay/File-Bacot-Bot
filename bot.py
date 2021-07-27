@@ -4,7 +4,7 @@ import pyromod.listen
 from pyrogram import Client
 import sys
 
-from config import API_HASH, APP_ID, LOGGER, TG_BOT_TOKEN, TG_BOT_WORKERS, FORCE_SUB_CHANNEL, CHANNEL_ID
+from config import 2450885f0ec6631a0aa8aaca8155d774, 6724627,  1900012138, 1939396716:AAEOydBf3e2wBQNGqaZtpYwn3YRvgum6j_o, 1900012138, -1001214394771, -1001464689297
 
 class Bot(Client):
     def __init__(self):
